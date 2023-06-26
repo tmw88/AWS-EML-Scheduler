@@ -1,6 +1,6 @@
 # AWS-EML-Scheduler
 ## About
-AWS-EML-Scheduler is a tool that automates the process of input switching and scheduling livestream broadcasts in AWS Elemental Media Live using AWS API. A list of all current encoders stored in the cloud is generated upon running, along with the corresponding video attachments and ID for each encoder.
+AWS-EML-Scheduler is a tool that automates the process of input switching and scheduling livestream broadcasts in AWS Elemental Media Live using AWS SDK for Go. A list of all current encoders stored in the cloud is generated upon running, along with the corresponding video attachments and ID for each encoder.
 ## Usage
 Refer to generated list to see attached video inputs and ID.
 
